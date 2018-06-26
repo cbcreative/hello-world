@@ -1,2 +1,2 @@
-# hello-world
+# honey-bee
 Honey bee - Gymnasium assignment website
