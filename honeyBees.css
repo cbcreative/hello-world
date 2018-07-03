@@ -29,6 +29,8 @@ h6  {
 		font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif"; padding: 12px; color: #AE8122; 
 	}
 body {
+	width; 600px;
+	padding; 1em;
 	margin-top: 10px;
 	margin-right: 10px;
 	margin-left: 20px;
@@ -103,4 +105,8 @@ footer {
 .responsive {
     width: 100%;
     height: auto;
+}.body {
+	width: 650px;
+	height: auto;
+	padding: 10px;
 }
