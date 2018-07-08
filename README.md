@@ -1,2 +1,4 @@
 # honey-bee
-Honey bee - Gymnasium assignment website
+Honey bee - Gymnasium - Modern Web Design assignment website
+Cheryl Veretto
+Creative
